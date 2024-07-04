@@ -75,10 +75,3 @@ This project demonstrates the application of deep learning and statistical metho
 ## Contributors
 - [Rishabh Patil](https://github.com/rish59p)
 - [Anwesha Gopireddy](https://github.com/collaborator-profile)
-
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to reach out for any questions or contributions to the project. Happy trading!
